@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500&display=swap");
+@font-face {
+  font-family: "Avenir";
+  src: url("../public/25381880192.ttf");
+  font-weight: 900;
+}
+
+body {
+  margin: 0;
+  line-height: normal;
+}
